@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Agent_of_estate" size="1.000000 0.587649" />
+    <ImageTarget name="Michelle_Personal" size="1.000000 0.587649" />
+    <ImageTarget name="La_belle_vue" size="1.000000 0.587649" />
+    <ImageTarget name="Estate_is_real" size="1.000000 0.587649" />
+    <ImageTarget name="Winslough_homes" size="1.000000 0.587649" />
+    <ImageTarget name="Chef_card" size="1.000000 0.587649" />
+    <ImageTarget name="Avelo_Roy" size="1.000000 0.587649" />
+    <ImageTarget name="Bhuvan_Makes" size="1.000000 0.587649" />
+  </Tracking>
+</QCARConfig>
